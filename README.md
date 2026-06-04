@@ -1,11 +1,4 @@
 [README.md](https://github.com/user-attachments/files/28617196/README.md)
-# Экзамен по Android
-
-**Приложение:** Конвертер валют  
-**Студент:** Darkserr (`tolyagribol-hue`)  
-**Язык:** Java  
-**API:** ExchangeRate-API (REST)
-
 ## Файлы в репозитории
 
 | Файл | Описание |
