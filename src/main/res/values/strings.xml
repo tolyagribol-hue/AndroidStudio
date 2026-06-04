@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Конвертер валют</string>
+    <string name="appbar_title">Конвертер валют</string>
+    <string name="sync_never">Синхр.: —</string>
+    <string name="sync_unknown">неизвестно</string>
+    <string name="sync_last">Синхр.: %1$s</string>
+    <string name="offline_banner">Оффлайн. Данные на %1$s</string>
+    <string name="source_currency">Исходная валюта</string>
+    <string name="target_currency">Целевая валюта</string>
+    <string name="hint_source_amount">Введите сумму</string>
+    <string name="hint_target_amount">Результат</string>
+    <string name="refresh_rates">Обновить курсы</string>
+    <string name="swap_currencies">Поменять валюты</string>
+    <string name="rates_updated">Курсы валют успешно обновлены</string>
+    <string name="rates_cache_used">Не удалось обновить. Используются сохранённые данные</string>
+    <string name="rates_load_failed">Не удалось загрузить курсы. Проверьте интернет</string>
+    <string name="retry">Повторить</string>
+</resources>

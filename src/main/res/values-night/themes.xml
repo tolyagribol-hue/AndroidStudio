@@ -1,0 +1,6 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.Currnecyconeverterbyserega" parent="Theme.MaterialComponents.NoActionBar">
+        <item name="android:windowBackground">@color/background_white</item>
+        <item name="colorPrimary">@color/result_blue</item>
+    </style>
+</resources>
